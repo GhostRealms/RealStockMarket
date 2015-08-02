@@ -6,6 +6,7 @@ commands:
    sm:
       description: Stock Market
       usage: /sm
+      aliases: [stock]
 permissions:
    realstockmarket.*:
       description: Gives access to all RealStockMarket commands
